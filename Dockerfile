@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ENV VERSION=v6.2.0 NPM_VERSION=3
+ENV VERSION=v6.14.3 NPM_VERSION=3
 
 # For base builds, no NPM
 # ENV CONFIG_FLAGS="--without-npm" RM_DIRS=/usr/include
